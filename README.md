@@ -2,8 +2,10 @@
 ## Actividad Inteligencia Artificial
 ### Ejercicios codificados en Prolog
 
-EJERCITACIÓN
-PROGRAMACIÓN LÓGICAPráctica (1)
+#### EJERCITACIÓN
+#### PROGRAMACIÓN LÓGICA
+
+##### Práctica (1)
 A partir de la familia Simpsons crear la base de conocimiento en Prolog.Práctica (2)
 Escribir una base de conocimiento sobre países. Los siguientes son
 hechos:
@@ -12,25 +14,27 @@ hechos:
 • Santa Cruz es una provincia
 • Canelones es un departamento
 
-Práctica (2)
+##### Práctica (2)
 Averiguar lo siguiente:
 ¿Es Marruecos un país?
 ¿Es Ganges un lago?
 ¿Es Estonia una ciudad?
-Práctica (3)
+
+##### Práctica (3)
 Escribí la siguiente base de conocimiento:
 Ramiro come carne
 Ana come verduras
 Nina no come pastas
 Ana no come carne
 
-Práctica (4)
+##### Práctica (4)
 Escribir una base de conocimiento predicados fuego, hierba y electrico que
 digan lo siguiente:
 •pikachu y raichu son pokemones de tipo eléctrico.
 •bulbasaur es de tipo hierba.
+•charmander y charizard son de tipo fuego.
 
-•charmander y charizard son de tipo fuego.Práctica (5)
+##### Práctica (5)
 El mágico mundo del ángel es habitado por personajes extraños y diversos:
 •Jorge, que es un poeta y vive en el barrio de Flores
 •Manuel, que es un polígrafo, y vive en Flores también
@@ -42,7 +46,7 @@ si alguien vive en un cierto barrio. Ejemplo:
 Además, debe permitirnos saber a qué se dedica alguien. Ejemplo:
 ? poeta(elDiablo).
 
-Práctica (6)
+##### Práctica (6)
 Una empresa está buscando candidatos para varios de sus sectores.
 Se sabe que:
 •Roque es contador, honesto y joven.
